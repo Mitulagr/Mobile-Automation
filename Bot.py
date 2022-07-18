@@ -70,4 +70,4 @@ async def on_message(msg):
         elif('enter' in m) : test.enter() 
         elif(m[0]=='send') : test.wa_send()
 
-client.run("ODYzNzY5MTY1Mjg1NDI1MTYy.YOrtuQ.cIa8hF1lTxgyRY_FQmCqaKtw0uU")
+client.run("token")
